@@ -1,1 +1,1 @@
-# betting-journal
+# bet-journal
